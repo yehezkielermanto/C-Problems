@@ -1,4 +1,9 @@
 //chapter 4.20
+/*
+ compile this program : gcc -o CH4 CH4.c -lpthread
+ run this program after compile : ./CH4
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
