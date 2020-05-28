@@ -1,3 +1,8 @@
+/*
+ Compile this program : gcc -o CH3 CH3.c
+ run this program after compile : ./CH3
+*/
+//Chapter 3.20
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
