@@ -1,3 +1,7 @@
+/*compile this program using gcc,
+  gcc -o CH5 CH5.c -lpthread
+  after compile, you can run this program using bash command: ./CH5
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
